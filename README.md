@@ -1,1 +1,1 @@
-# laravel-view-101
+# laravel-vue-101
